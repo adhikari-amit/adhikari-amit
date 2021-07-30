@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhikari-amit
 - 👀 I’m interested in web development, data Science
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me ... amitadhikari@outlook.in
 
 <!---
