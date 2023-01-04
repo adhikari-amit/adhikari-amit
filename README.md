@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services.**
 
-- 👨‍💻 All of my projects are available at [https://amamit.in](https://amamit.in)
+- 👨‍💻 My portfolio website  [https://amamit.in](https://amamit.in)
 
 - 💬 Ask me about **react, node js, full stack development etc**
 
