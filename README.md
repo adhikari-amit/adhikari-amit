@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Adhikari</h1>
-<h3 align="center">A Engineer by heart , Developer by Passion.</h3>
+<h3 align="center">An Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhikari-amit&label=Profile%20views&color=0e75b6&style=flat" alt="adhikari-amit" /> </p>
 
@@ -19,8 +19,3 @@
 <a href="https://linkedin.com/in/amitadhikari-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitadhikari-" height="30" width="40" /></a>
 <a href="https://instagram.com/_amamit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amitadhikari_" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhikari-amit&show_icons=true&locale=en&layout=compact" alt="adhikari-amit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adhikari-amit&show_icons=true&locale=en" alt="adhikari-amit" /></p>
